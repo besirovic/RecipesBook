@@ -5,7 +5,6 @@
 ### Clone a repo
 ```
 git clone https://github.com/besirovic/recipesbook.git
-
 ```
 
 ### Install dependencies
