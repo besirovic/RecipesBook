@@ -20,7 +20,7 @@ yarn install
 ```
 
 ### Add Firebase credentials
-* Go to [Firebase](https://firebase.google.com/) and login with your Google account or create on if you don't have.
+* Go to [Firebase](https://firebase.google.com/) and login with your Google account or create one if you don't have.
 * Create new project or select existing
 * Grab your firebase credentials and add it in ``` src/app/app.component.ts ``` file
 * Open Database section and inside Rules tab add following code:
